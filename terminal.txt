@@ -1,0 +1,12 @@
+LS -list
+CD - change directory
+mkdir - make directory
+Touch - make file
+pwd - print working directory
+rm - remove
+cat - display the contents inside the file
+rm -rf - remove folder
+whoami - check login
+touch {1.100}.txt 
+rm -rf * - remove all 
+vim - note 
